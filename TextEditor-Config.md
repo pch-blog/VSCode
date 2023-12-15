@@ -15,8 +15,10 @@
 'Fixedsys Excelsior 3.01', 'Courier New', monospace
 ```
 - 열려있는 모든 VSCode 종료 후 다시 실행
+<br>
 
 ## 한글에 노란색 네모칸 표시 끄기
 - VSCode에서 "Ctrl + ," 명령으로 설정창 실행
 - "Non Basic ASCII"로 검색
 - "Unicode Highlight: Non Basic ASCII" 항목을 false로 설정
+<br>
