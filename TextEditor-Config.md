@@ -1,7 +1,7 @@
 # TextEditor Config
 ~~~
 - 텍스트 편집기 메뉴 기준
-- 설정창 열기 ("Ctrl + ,")
+- 설정창 열기 "Ctrl + ,"
 ~~~
 <br>
 
