@@ -1,0 +1,9 @@
+# VScode 영어 한글 font 설정
+
+- setting.json 변겅
+- editor.fontFamily 영역에 font 변경 및 추가
+- 아래의 구성은 영어는 Fixedsys, 한글은 D2Coding font를 이용
+
+```json
+"editor.fontFamily": "'Fixedsys Excelsior 3.01', 'D2Coding'",
+```
